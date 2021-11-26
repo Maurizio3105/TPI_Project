@@ -8,6 +8,6 @@ https://hf3xzw.deta.dev/
 * Durante l'attesa del risultato, la pagina mostra uno spinner, fino alla fine del caricamento dei valori.
 ---
 Librerie utilizzate:
-* Chart.js (https://cdn.jsdelivr.net/npm/chart.js)
-* Spinner (https://tobiasahlin.com/spinkit/)
-* Hover (https://ianlunn.github.io/Hover/)
+* [Chart.js](https://cdn.jsdelivr.net/npm/chart.js)
+* [Spinner](https://tobiasahlin.com/spinkit/)
+* [Hover.css](https://ianlunn.github.io/Hover/)
